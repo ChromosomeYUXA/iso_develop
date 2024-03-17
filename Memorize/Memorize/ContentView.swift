@@ -18,6 +18,8 @@ struct ContentView: View {
         }
         .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
         .padding()
+        
+        
     }
 }
 
